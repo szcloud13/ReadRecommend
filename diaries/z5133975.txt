@@ -1,0 +1,20 @@
+Week 1: Group formed. Jira and github accounts created. Team members discussed the roles available and interested project. Software tools discussed.
+
+Week 2: Simone made progress on setting basic webpage and its server. We are to use Oracle free VM with django framework. All team members are encouraged to pick up skills.
+        All user stories discussed and set in stone for sprint that is starting next week.
+        
+Week 3: As the proposal is submitted, the sprint has officially started on thursday lab and user stories are allocated. I am responsible for display top 10 recently added books, viewing book details when a book is clicked, viewing titles in other users' collection. 
+
+Week 4: There has been a change of assigned stories throughout the sprint, a sunday standup meeting has also been conducted to allow communication and check up of how each member are doing. Backend members has informed others about difficulties met in implementing databases. Frontend members including me and Monica also had troubles with ajax requests and react coding.  
+
+Week 5: Due to unexpected technical issues on the backend, some user stories are moved to be completed in the next sprint as it requires a restructure of the server database. Apart from that, all fucntionalities are deemed completed as the group managed to satisfy all criteria listed for Progressive Demo A.
+
+Week 6: There is not much progress as week 6 is the flexibility week and all members have to utilize the week to focus on other commitments & subjects. The next sprint is planned to last the whole of week 7 instead. 
+
+Week 7: Front end for "external search" that find books using Google API. This feature allows users to import books that are not in the current database. However there are bugs and issues with essential database keys missing from the API info. Hence more test cases should be run in future.
+
+Week 8: Demo B is held where new features such as goals and reviews are added.
+
+Week 9: Recommendations and Keyword search are implemented as the novelty features. It was challenging completing carousel slide frontend effect such that users are able to scroll past books
+
+Week 10: The Final demo is thursday and hence everyone worked diligently on the report as well as testing the systems. Several bugs are found and fixed. Wish us all the best for the demo

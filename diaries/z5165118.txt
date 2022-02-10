@@ -1,0 +1,22 @@
+John Chen z5165118
+
+Week 1
+Joined a group and set up groupchats, joined jira and we decided on the project to work on and what to implement it with.
+Week 2
+Worked with simon to decide on how we were going to implement the backend
+Week 3
+Got the proposal finished and fully decided as a group on how the implementation was going to work and the tasks split between us
+Week 4
+Started on the first sprint, more discussion were had on the api and how to structure once we actually got to a start.
+Week 5
+Completed the first sprint and started preparing for the demo and talked about any issues encountered during the first sprint. and starting planning for the next sprint
+Week 6
+Flexbility week, worked on comp6447 and comp6843 during the downtime and talked with the team about when we weren't available and when to start working on the next sprint (week7)
+Week 7 
+Implemented user reviews on the backend
+Week 8 
+Prepping for demo and having final discussions/retrospective on any changes we would like before most things were finalized
+Week 9
+Final touches for before submission overall general thoughts on expections we had throughout the trimester and how they lived up, overall things went fine!, discussed how we were going to complete the final report before submission
+Week 10
+Finished the final report with the team, personally focused on the report overview and architectural overview and implementation challenges, mainly bugfixing and polishing performed on the codebase.

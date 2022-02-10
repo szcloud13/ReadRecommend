@@ -1,0 +1,69 @@
+COMP3900 Diary
+Monica Ng (z5025097)
+
+Week 1
+
+- Group formed. Join Github classroom and Jira. Decided on what software project to implement.
+
+Week 2
+
+- Discussed user stories and created draft of the project proposal. 
+- Worked on User Stories and Storyboards for the project proposal.
+- Familiarised myself with React and Typescript. Created basic front end for home/landing page.
+
+Week 3
+
+- Finalised project proposal. Created basic front end for sign up and sign in pages, and worked with Simon to attach this to the backend.
+- The main challenges this week were getting used to programming and debugging React and Typescript code as I have not worked on frontend before.
+
+Week 4
+
+- Implemented the front-end for creating collections for a user, as well as as editing collections 
+-> this included the UI and functionality for renaming collections, adding to and removing books from collections, as well as adding and deleting tags from collections.
+- The main focus was to get all the front end features communicating properly with the backend API endpoints. 
+- Some things that were not implemented include various alerts/feedback on the UI to tell users whether their actions were successful or unsucessful.
+Whilst the implementation of these features would enhance the user experience, I was more focused on implementing the main functionality first.
+I plan to roll out the implementation of this over the whole course of the project as different features on the frontend are implemented.  
+
+Week 5
+
+- Building on last week's work, this week was focused on getting the product ready for demo.
+- The first demo of our project was conducted this week and we showcased all the implemented user stories that were part of the first sprint.
+- We weren't able to implement the top 10 most recently added books in a collection during this sprint as this would require changes in the backend 
+that would affect some of the other implemented features. Collectively, we decided we did not want to accidentally break existing functionality.
+- In the next 1-2 weeks, we plan to agree on an appropriate representation of books and collections that would support the 'most recently added books' feature.
+We also plan on implementing all the features allocated to the upcoming sprint. 
+
+Week 6
+
+- This week was flexibility week and so my workload was lighter than other weeks. Here, I decided to work on addressing some of the feedback received in the first demo.
+- I implemented a double password confirmation field on the sign up page, as well as different alerts for increased user feedback.
+- I added some error handling to ensure that users couldn't create multiple collections with the same name.  
+- There were no major technical obstacles this week as a few of the other members in the group were taking a short break.
+- Next week I plan to start working on building out the main features allocated in the sprint (reading status for books and goal setting).
+
+Week 7
+
+- Implemented the front end for "read status" for books in a user's library (main collection). This feature allows users to mark a book as read or unread and is crucial for measuring the
+completion of user reading goals to be implemented next week.
+- Some issues were are working on resolving include functionality for users to add books that are not on the platform's system into their personalised collections.
+To address this, Simon is looking into scraping book data from external APIs.  
+
+Week 8
+
+- This week I worked on implementing front-end for the goal setting feature for users. This entails users being able to set monthly reading goals which are saved to their profile,
+and being able to see their progress with past goals on a line chart that displays the number of books read over each "goal period".
+- The main technical obstacle was around collaborating with backend on how we wanted to represent and implement the notion of a user goal.
+To resolve this, many discussions were held in the planning phase. Additionally, I worked closely with Jiayi during the implementation phase to ensure smooth
+connection between the frontend and backend. 
+- The second demo of our project was held this week, where we showcased all completed features. The only features not implemented at this stage were the calculation
+and display of aggregate statistics, as well as the filtering and recommendation modes. 
+
+Week 9
+
+- This week we aimed to finalise our code for the project. I worked on the frontend features for editing reading goals, as well as filtering capabilities in book search.
+
+Week 10
+
+- This week I worked on minor bug fixes and adding user feedback for a range of actions to make our website more user-friendly. 
+I also worked on the "Functionalities" section of the project report and prepared for final submission.
